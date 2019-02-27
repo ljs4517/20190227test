@@ -1,4 +1,7 @@
+
 int a=10;
 function aaa
 function bbb
-function ccc integer(number){}
+function ccc
+function ccc integer(number)
+function ddd double(number)
