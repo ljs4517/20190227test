@@ -1,2 +1,4 @@
-function aaaa
-function bbbb
+int a=10;
+function aaa
+function bbb
+function ccc integer(number){}
